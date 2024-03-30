@@ -4,4 +4,6 @@
 
 * Currently, I would like this project to implement Spring Boot microservices as well as show off my DevOps experience.
 
+* My ideal tech stack will include Java Spring Boot, PostgreSQL, Docker, Kubernetes, as well as Jenkins. Although this is my initial plan decisions may change based on requirements, much like in any other project.
+
 * I will continue to update this ```README.md``` as I continue to contribute to this project.
